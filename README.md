@@ -2,6 +2,7 @@ About me:
 - Hi, I’m Kira
 - I’m interested in playing guitar and programming 
 - I’m currently learning programming with different languages like html, css, js, php and sql
+- I already learned Python and Java
 - Pronouns: she/her
 
 <!---

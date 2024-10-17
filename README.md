@@ -1,9 +1,8 @@
 About me:
-- Hi, I’m Kira
+- Hi, I’m Jonas
 - I’m interested in playing guitar and programming 
 - I’m currently learning programming with different languages like php and sql
 - I already learned Python, Java, HTML, CSS and JavaScript
-- Pronouns: she/her
 
 <!---
 Joschroe2/Joschroe2 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

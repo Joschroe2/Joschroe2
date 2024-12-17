@@ -1,8 +1,7 @@
 About me:
-- Hi, I’m Jonas
-- I’m interested in playing guitar and programming 
-- I’m currently learning programming with different languages like php and sql
-- I already learned Python, Java, HTML, CSS and JavaScript
+- Hi, I’m Kira
+- I’m interested in playing intruments and programming 
+- I like making games
 
 <!---
 Joschroe2/Joschroe2 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
